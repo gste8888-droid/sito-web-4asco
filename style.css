@@ -18,3 +18,15 @@ nav a {
 	color: white;
 	margin-right: 20px;
 }
+.prodotto {
+	background-color: white;
+	padding: 20px;
+	margin: 20px 0;
+	border: 1px solid #dddddd;
+	border-radius: 10px;
+}
+ 
+.prodotto img {
+	max-width: 200px;
+	height: auto;
+}
